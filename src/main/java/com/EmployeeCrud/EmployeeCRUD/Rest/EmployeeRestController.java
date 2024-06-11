@@ -1,6 +1,5 @@
 package com.EmployeeCrud.EmployeeCRUD.Rest;
 
-import com.EmployeeCrud.EmployeeCRUD.DAO.EmployeeDAO;
 import com.EmployeeCrud.EmployeeCRUD.Entity.Employee;
 import com.EmployeeCrud.EmployeeCRUD.Service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
